@@ -1,0 +1,62 @@
+
+
+.personaje{
+    margin: 10px;
+    width: 20%;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px lightslategray;
+    background-color: #731926;
+    color: whitesmoke;
+}
+
+.card{
+    background-color: lightgrey;
+    color: #191919;
+    margin: 20px;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* .vivo img{
+    border: 3px solid greenyellow;
+}
+
+.muerto img{
+    border: 3px solid #cf112b;
+} */
+
+.botones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin: 10px;
+    justify-content: space-around;
+}
+
+.img-header{
+    width: 100%;
+    height: auto;  
+}
+
+
+.img-name{
+    width: 80%;
+    height: auto;
+    margin-top: 40px;
+    margin-right: 40px;
+    border: 0 solid transparent;
+}
+
+
